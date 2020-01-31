@@ -4,7 +4,7 @@ Cython is an optimising static compiler for both Python and the extended Cython.
 
 Cython combines the advantage of Python and C to let you interact efficiently with large data sets. As Cython drops down the code to the machine level, it speeds up the execution of Python code. 
 
-![Numpy vs Cython vs Python](/images/logo.png)
+![Numpy vs Cython vs Python](Numpy-Cython-Python.png)
 
 The compiled extension of Cython involves three files:
 Main file
